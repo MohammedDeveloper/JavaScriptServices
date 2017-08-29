@@ -13,6 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Internal.AspNetCore.Sdk" Version="$(InternalAspNetCoreSdkVersion)" PrivateAssets="All" />
+    <PackageReference Include="Internal.AspNetCore.Sdk" PrivateAssets="All" />
   </ItemGroup>
 </Project>

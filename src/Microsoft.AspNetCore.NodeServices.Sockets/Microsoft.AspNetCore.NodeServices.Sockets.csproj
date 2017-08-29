@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="System.Threading.Tasks.Dataflow" Version="$(ThreadingDataflowVersion)" />
+    <PackageReference Include="System.Threading.Tasks.Dataflow" />
   </ItemGroup>
 
 </Project>
